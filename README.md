@@ -8,6 +8,7 @@
 # Technical
 - Uses Greenfoot (Java graphics framework)
 - Features collision detection with sprites
+- Object-oriented programming
 - My first graphics-based game!
 
 ![BeeCareful Gameplay](gameplay.png)
