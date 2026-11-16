@@ -10,4 +10,4 @@
 - Features collision detection with sprites
 - My first graphics-based game!
 
-![beecareful Gameplay](gameplay.png)
+![BeeCareful Gameplay](https://github.com/lunacodec/beecareful/blob/main/gameplay.png)
