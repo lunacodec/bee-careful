@@ -1,12 +1,11 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Bee Careful 🌻🐝
+2-player arcade game (April 2018)
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+# Gameplay
+- Control the bee (arrow keys) or the butterfly (WASD)
+- Collect flowers to score points, avoid the bombs!
+
+# Technical
+- Uses Greenfoot (Java graphics framework)
+- Features collision detection with sprites
+- My first graphics-based game!
